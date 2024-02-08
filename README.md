@@ -11,46 +11,4 @@ Requirements:
 5. If hangman is completed drawn (5 parts), the computer wins
 6. If all the dashes are replaced with letters, the user wins
 
-Stages:
-
-1 - Wrong
------
-
-2 - Wrong
-  |-----| 
-  |    
-  |    
-  |    
------
-
-3 - Wrong
-  |-----| 
-  |     O
-  |    
-  |    
------
-
-4 - Wrong
-  |-----| 
-  |     O
-  |    /|\
-  |    
------
-
-5 - Wrong
-  |-----| 
-  |     O
-  |    /|\
-  |    _/\_
------
-
-
-
-['structure', 'base', 'head', 'upperBody', 'lowerBody']
-
-
-  O
-- | -
- / \
-
  
